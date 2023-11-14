@@ -1,0 +1,11 @@
+.listItem {
+  list-style-type: none;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.arrow-image {
+  width: 20px;
+  height: 20px;
+}
